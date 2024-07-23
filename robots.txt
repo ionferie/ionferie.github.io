@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionferie.github.io/sitemap
+Sitemap: https://ionferie.github.io/app/sitemap
+Sitemap: https://ionferie.github.io/assets/sitemap
+Sitemap: https://ionferie.github.io/css/sitemap
+Sitemap: https://ionferie.github.io/includes/sitemap
+Sitemap: https://ionferie.github.io/item/sitemap
+Sitemap: https://ionferie.github.io/src/sitemap
